@@ -16,7 +16,13 @@
         "municipality": "Guadalajara",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanmol/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -171,6 +177,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/juanmol/"
+        }
+      ]
+    },
     "preferences": {
       "preferredRoles": [
         "Backend Developer",
