@@ -198,6 +198,38 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular Universal",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
