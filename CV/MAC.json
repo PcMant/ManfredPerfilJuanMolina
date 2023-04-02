@@ -1,0 +1,163 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan",
+      "surnames": "Molina Gómez",
+      "title": "Programador Web",
+      "description": "Soy un desarrollador web full-stack con experiencia en Angular, PHP y JavaScript, también soy técnico superior en Administración de Sistemas Informáticos en red. Especializado en APIs RESTful y Single Page Applications (SPA) con Angular. Conocimientos en bases de datos MySQL y MongoDB. Autodidacta, metódico y resolutivo con enfoque proactivo y orientado a la calidad. En búsqueda constante de formas de mejorar la eficiencia, la funcionalidad y la experiencia de usuario. ",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Plat-on SL"
+        },
+        "roles": [
+          {
+            "name": "Programador júnior",
+            "startDate": "2022-11-01",
+            "finishDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Funciones: Mantener proyectos web y desarrollo web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GRUPO DE EMPRESAS BUCOGAR SL"
+        },
+        "roles": [
+          {
+            "name": "Prácticas FCT DAW",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Funciones: Hacer webs con Prestashop y ofrecer soporte informático"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INFORMATICA NOTARIAL SL"
+        },
+        "roles": [
+          {
+            "name": "Prácticas FCT ASIR",
+            "startDate": "2020-05-01",
+            "finishDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "Funciones: Desarrollo de una web (HTML, CSS y PHP) y administración e implementación de una plataforma Moodle."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alza Obras y Servicios"
+        },
+        "roles": [
+          {
+            "name": "Prácticas FCT SMR",
+            "startDate": "2017-09-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "Funciones: Ofrecer soporte informático, administración de servicios en red, reparación/reacondicionamiento de equipos informáticos y periféricos (principalmente portátiles), backups/clonaciones, instalación de software y configuración del mismo."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
