@@ -208,6 +208,18 @@
           "type": "technology"
         },
         {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Notion",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
