@@ -208,7 +208,11 @@
         "startDate": "2020-06-01",
         "institution": {
           "name": "IES Arcipreste de Hita",
-          "description": "• 2000 horas.\n• Formación en el diseño y desarrollo de aplicaciones web, tanto para el front-end como para el back-end.\n• Conocimientos en programación, diseño de bases de datos, frameworks de desarrollo, entre otros.\n• Capacidad para diseñar y desarrollar aplicaciones web desde cero, utilizando herramientas y tecnologías actuales."
+          "description": "• 2000 horas.\n• Formación en el diseño y desarrollo de aplicaciones web, tanto para el front-end como para el back-end.\n• Conocimientos en programación, diseño de bases de datos, frameworks de desarrollo, entre otros.\n• Capacidad para diseñar y desarrollar aplicaciones web desde cero, utilizando herramientas y tecnologías actuales.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/23/6480b21b-8e3d-459c-add7-bb01c4900c0c_logo_ies_arcipreste_.png",
+            "alt": "LOGO_IES_Arcipreste_de_Hita_Azuqueca_de_Henares.png"
+          }
         },
         "finishDate": "2022-06-01"
       },
