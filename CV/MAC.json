@@ -200,6 +200,21 @@
           "description": "• 2000 horas.\n• Formación enfocada en la gestión y administración de sistemas informáticos en redes.\n• Conocimientos avanzados en sistemas operativos, seguridad, redes, virtualización, entre otros.\n• Capacidad para diseñar, implementar y administrar infraestructuras de sistemas y redes.\n• Gestión de base de datos relacionales SQL Server y MySQL.\n• Lenguajes de marcado HTML, CSS.\n• Fundamentos de programación en JavaScript y PHP."
         },
         "finishDate": "2020-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programación Web Front-End con Angular",
+        "startDate": "2021-05-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial",
+          "description": "Introducción Front-End con HTML y CSS 3.\nFundamentos de la programación: Javascript.\nDesarrollo Front-End Angular\nIntroducción a React\nDiseño Web orientado a producto digital\nProtección de datos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/23/bf652d70-2fc8-445b-98d2-2fe32aed37a3_logo_eoi.jpg",
+            "alt": "LOGO_EOI.jpg"
+          }
+        },
+        "finishDate": "2021-07-01"
       }
     ],
     "softSkills": [
