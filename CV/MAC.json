@@ -11,30 +11,19 @@
       "title": "Programador Web",
       "description": "Soy un desarrollador web full-stack con experiencia en Angular, PHP y JavaScript, también soy técnico superior en Administración de Sistemas Informáticos en red. Especializado en APIs RESTful y Single Page Applications (SPA) con Angular. Conocimientos en bases de datos MySQL y MongoDB. Autodidacta, metódico y resolutivo con enfoque proactivo y orientado a la calidad. En búsqueda constante de formas de mejorar la eficiencia, la funcionalidad y la experiencia de usuario. ",
       "avatar": {
-        "alt": "Juan-Molina-web-developer-fullstack-full-stack-pcmant-gray-profile-pic.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/03/757444a9-9d07-47a7-aac4-4a8ada71c365_juan-molina-web-deve.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/03/757444a9-9d07-47a7-aac4-4a8ada71c365_juan-molina-web-deve.png",
+        "alt": "Juan-Molina-web-developer-fullstack-full-stack-pcmant-gray-profile-pic.png"
       },
       "location": {
-        "country": "España",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/PcMant"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juanmol/"
-      },
-      {
         "type": "other",
-        "URL": "https://www.pcmant.com/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://www.twitter.com/ipcmant"
+        "URL": "https://www.pcmant.com/",
+        "description": "Mi Web PcMant.com"
       }
     ]
   },
@@ -113,15 +102,27 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "CSS",
@@ -130,25 +131,7 @@
       },
       {
         "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
           "type": "technology"
         }
       },
@@ -166,19 +149,25 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular Universal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
           "type": "technology"
         }
       },
@@ -188,14 +177,58 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP GS Técnico en Sistemas Microinformáticos y Redes",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "IES Brianda de Mendoza",
+          "description": "Montaje y mantenimiento de equipo.\nSistemas operativos monopuesto.\nAplicaciones ofimáticas.\nSistemas operativos en red.\nRedes locales.\nSeguridad informática.\nServicios en red.\nAplicaciones web.\nFormación y orientación laboral.\nEmpresa e iniciativa empresarial.\nFormación en centros de trabajo"
+        },
+        "finishDate": "2017-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/juanmol/"
+          "URL": "https://www.linkedin.com/in/juanmol/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/PcMant",
+          "type": "other"
+        },
+        {
+          "URL": "https://www.twitter.com/ipcmant",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "juanmgpt@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "676823029",
+          "countryCode": "+34"
         }
       ]
     },
@@ -251,5 +284,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Busco un trabajo remoto en el que se valore la calidad del trabajo y se hagan buenas prácticas de programación. Me gustaría trabajar en un ambiente colaborativo y flexible donde se preocupen por mantener formados a los empleados. Además, me gustaría trabajar en una empresa que tenga un impacto positivo en la sociedad y que me permita progresar y mejorar como profesional."
   }
 }
