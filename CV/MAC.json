@@ -182,13 +182,24 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "FP GS Técnico en Sistemas Microinformáticos y Redes",
+        "name": "FP GM Técnico en Sistemas Microinformáticos y Redes",
         "startDate": "2015-09-01",
         "institution": {
           "name": "IES Brianda de Mendoza",
           "description": "Montaje y mantenimiento de equipo.\nSistemas operativos monopuesto.\nAplicaciones ofimáticas.\nSistemas operativos en red.\nRedes locales.\nSeguridad informática.\nServicios en red.\nAplicaciones web.\nFormación y orientación laboral.\nEmpresa e iniciativa empresarial.\nFormación en centros de trabajo"
         },
         "finishDate": "2017-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP GS Técnico Superior en Administración de Sistemas Informáticos en Red",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "IES Brianda de Mendoza",
+          "description": "• 2000 horas.\n• Formación enfocada en la gestión y administración de sistemas informáticos en redes.\n• Conocimientos avanzados en sistemas operativos, seguridad, redes, virtualización, entre otros.\n• Capacidad para diseñar, implementar y administrar infraestructuras de sistemas y redes.\n• Gestión de base de datos relacionales SQL Server y MySQL.\n• Lenguajes de marcado HTML, CSS.\n• Fundamentos de programación en JavaScript y PHP."
+        },
+        "finishDate": "2020-06-01"
       }
     ],
     "softSkills": [
