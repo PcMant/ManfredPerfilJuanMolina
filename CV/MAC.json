@@ -197,7 +197,11 @@
         "startDate": "2018-09-01",
         "institution": {
           "name": "IES Brianda de Mendoza",
-          "description": "• 2000 horas.\n• Formación enfocada en la gestión y administración de sistemas informáticos en redes.\n• Conocimientos avanzados en sistemas operativos, seguridad, redes, virtualización, entre otros.\n• Capacidad para diseñar, implementar y administrar infraestructuras de sistemas y redes.\n• Gestión de base de datos relacionales SQL Server y MySQL.\n• Lenguajes de marcado HTML, CSS.\n• Fundamentos de programación en JavaScript y PHP."
+          "description": "• 2000 horas.\n• Formación enfocada en la gestión y administración de sistemas informáticos en redes.\n• Conocimientos avanzados en sistemas operativos, seguridad, redes, virtualización, entre otros.\n• Capacidad para diseñar, implementar y administrar infraestructuras de sistemas y redes.\n• Gestión de base de datos relacionales SQL Server y MySQL.\n• Lenguajes de marcado HTML, CSS.\n• Fundamentos de programación en JavaScript y PHP.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/23/86327e5f-c4ed-4d4e-842f-71ab36f24144_logo_ies_brianda_de_.jpg",
+            "alt": "LOGO_IES_Brianda_de_Mendoza_Guadalajara.jpg"
+          }
         },
         "finishDate": "2020-06-01"
       },
