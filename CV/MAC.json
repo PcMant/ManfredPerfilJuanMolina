@@ -202,6 +202,17 @@
         "finishDate": "2020-06-01"
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP GS Técnico Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2020-06-01",
+        "institution": {
+          "name": "IES Arcipreste de Hita",
+          "description": "• 2000 horas.\n• Formación en el diseño y desarrollo de aplicaciones web, tanto para el front-end como para el back-end.\n• Conocimientos en programación, diseño de bases de datos, frameworks de desarrollo, entre otros.\n• Capacidad para diseñar y desarrollar aplicaciones web desde cero, utilizando herramientas y tecnologías actuales."
+        },
+        "finishDate": "2022-06-01"
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Programación Web Front-End con Angular",
@@ -327,6 +338,10 @@
       },
       {
         "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "jQuery",
         "type": "technology"
       }
     ],
