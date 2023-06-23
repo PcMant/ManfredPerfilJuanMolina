@@ -312,6 +312,16 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Busco un trabajo remoto en el que se valore la calidad del trabajo y se hagan buenas prácticas de programación. Me gustaría trabajar en un ambiente colaborativo y flexible donde se preocupen por mantener formados a los empleados. Además, me gustaría trabajar en una empresa que tenga un impacto positivo en la sociedad y que me permita progresar y mejorar como profesional."
   }
 }
