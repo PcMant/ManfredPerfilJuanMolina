@@ -42,6 +42,36 @@
               {
                 "description": "Funciones: Mantener proyectos web y desarrollo web"
               }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
             ]
           }
         ]
@@ -338,6 +368,10 @@
     "mainStackTechs": [
       {
         "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
         "type": "technology"
       },
       {
