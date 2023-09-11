@@ -186,7 +186,11 @@
         "startDate": "2015-09-01",
         "institution": {
           "name": "IES Brianda de Mendoza",
-          "description": "Montaje y mantenimiento de equipo.\nSistemas operativos monopuesto.\nAplicaciones ofimáticas.\nSistemas operativos en red.\nRedes locales.\nSeguridad informática.\nServicios en red.\nAplicaciones web.\nFormación y orientación laboral.\nEmpresa e iniciativa empresarial.\nFormación en centros de trabajo"
+          "description": "Montaje y mantenimiento de equipo.\nSistemas operativos monopuesto.\nAplicaciones ofimáticas.\nSistemas operativos en red.\nRedes locales.\nSeguridad informática.\nServicios en red.\nAplicaciones web.\nFormación y orientación laboral.\nEmpresa e iniciativa empresarial.\nFormación en centros de trabajo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/23/7ab128bf-a61f-4359-bea0-c08d22f7ee09_logo_ies_brianda_de_.jpg",
+            "alt": "LOGO_IES_Brianda_de_Mendoza_Guadalajara.jpg"
+          }
         },
         "finishDate": "2017-06-01"
       },
@@ -260,11 +264,11 @@
         },
         {
           "URL": "https://github.com/PcMant",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://www.twitter.com/ipcmant",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
