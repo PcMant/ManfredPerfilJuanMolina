@@ -144,6 +144,12 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bootstrap",
           "type": "technology"
         }
@@ -362,7 +368,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Git",
+        "name": "Bootstrap",
         "type": "technology"
       },
       {
