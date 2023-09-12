@@ -10,10 +10,6 @@
       "surnames": "Molina Gómez",
       "title": "Programador Web",
       "description": "Soy un desarrollador web full-stack con experiencia en Angular, PHP y JavaScript, también soy técnico superior en Administración de Sistemas Informáticos en red. Especializado en APIs RESTful y Single Page Applications (SPA) con Angular. Conocimientos en bases de datos MySQL y MongoDB. Autodidacta, metódico y resolutivo con enfoque proactivo y orientado a la calidad. En búsqueda constante de formas de mejorar la eficiencia, la funcionalidad y la experiencia de usuario. ",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/03/757444a9-9d07-47a7-aac4-4a8ada71c365_juan-molina-web-deve.png",
-        "alt": "Juan-Molina-web-developer-fullstack-full-stack-pcmant-gray-profile-pic.png"
-      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
         "country": "España"
@@ -22,8 +18,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://www.pcmant.com/",
-        "description": "Mi Web PcMant.com"
+        "URL": "https://www.pcmant.com/"
       }
     ]
   },
