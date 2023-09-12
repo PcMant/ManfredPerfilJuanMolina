@@ -315,10 +315,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Angular Universal",
-          "type": "technology"
-        },
-        {
           "name": "Laravel",
           "type": "technology"
         },
