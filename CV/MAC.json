@@ -123,7 +123,11 @@
       },
       {
         "organization": {
-          "name": "Alza Obras y Servicios"
+          "name": "Alza Obras y Servicios",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/f73dc177-1357-48ae-9cc7-d33073c9c57a_alza_obras_y_servici.jpg",
+            "alt": "alza_obras_y_servicios_logo.jpg"
+          }
         },
         "roles": [
           {
