@@ -106,7 +106,11 @@
       },
       {
         "organization": {
-          "name": "INFORMATICA NOTARIAL SL"
+          "name": "INFORMATICA NOTARIAL SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/963d8c88-0555-4946-bbc6-9fe60a4b0fde_grupo-informatica-no.png",
+            "alt": "Grupo-Informatica-Notarial_Logo.png"
+          }
         },
         "roles": [
           {
