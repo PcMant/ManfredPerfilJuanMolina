@@ -319,6 +319,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de SEO y Posicionamiento web para Desarrolladores web",
+        "startDate": "2019-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "- SEO desde cero\n- Posicionamiento web en buscadores\n- Aumentar las visitas en cualquier proyecto web\n- Optimización de páginas web para los motores de búsqueda\n- Mejorar la velocidad de tus sitios web\n- Escalar posiciones en Google\n- Dominar el SEO\n- Conceptos en Marketing Digital\n- Obtener visibilidad en proyectos web\n- Busqueda y analisis de palabras clave\n- Keyword Research\n- Crear sitios web con Wordpress\n- Optimizar Wordpress para SEO\n- Plugins para SEO en Wordpress\n- Estrategias de posicionamiento\n- Disminuir gastos en publicidad digital\n- Aumentar el trafico de una web\n- SEO para novatos, diseñadores o programadores\n- Search Engine Optimization\n- Aprenderás SEO real, de verdad, con las cosas que son posibles y las que no, sin falsas promesas\n- HTML\n- Primeros pasos en el desarrollo web\n- Crear páginas web básicas",
+          "URL": "https://www.udemy.com/certificate/UC-AO6CAEXE/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/75fb74a3-7f74-4cc7-91e1-b2bc230dd075_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "FP GM Técnico en Sistemas Microinformáticos y Redes",
