@@ -385,6 +385,7 @@
         "startDate": "2021-12-01",
         "institution": {
           "name": "Udemy",
+          "description": "- 20,5 horas de video bajo demanda.\n- Dominar CSS\n- Dominar CSS3\n- Dominar la maquetación web\n- Dominar el diseño web adaptable (responsive)\n- Dominar LESS\n- Dominar SASS\n- Dominar CSS Grid\n- Dominar Flexbox\n- Dominar Bootstrap\n- Crear páginas web desde cero\n- Aplicar efectos y animaciones a tus webs\n- Aplicar diseños avanzados a un sitio web\n- Trabajar con preprocesadores css\n- Trabajar con CSS avanzado\n- Trabajar con frameworks para CSS\n- Aumentar el nivel en el desarrollo web front-end\n- Mejorar la capacidad de adaptación a otros frameworks CSS",
           "URL": "https://www.udemy.com/certificate/UC-580c2754-db75-4caa-9510-f4a60aa2e77d/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/ddb6affb-2c38-41df-baf7-9d638fc85ba8_udemy_logo.jpg",
