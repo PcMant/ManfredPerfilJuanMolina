@@ -314,6 +314,38 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-fb5b84bd-3c40-405d-8e51-14b8f7f147cb/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/984b21f2-39ed-49c0-a35c-3a1849bb1970_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Programación Web Front-End con Angular",
