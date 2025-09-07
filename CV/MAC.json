@@ -243,7 +243,7 @@
         "startDate": "2025-07-01",
         "institution": {
           "name": "OpenWebinars",
-          "description": "**Duración:** 7 horas\n## Contenido:\n- **Herramientas de trabajo:** Git y GitFlow, Instalacción de herramientas, SSH.\n- **Organización del código fuente:** Creación de un repositorio local, Aprobación de campos en consola, Aprobación de cambios con la interfaz gráfica, Trabajo en remoto, Deshaciendo cambios, Resolviendo conflictos, Subiendo cambios.\n-**Flujos de trabajo:** Encontrando errores, Git blame, Estrategia Merge, Estrategia Rebase, Estrategia Merge Squansh - Rebase, Git Stash, Saltando entre commits.\n-**Trabajo colaborativo:** Etiquetas, Releases, Issues, Pull Requests, Integración continua\n\n",
+          "description": "**Duración:** 7 horas\n## Contenido:\n- **Herramientas de trabajo:** Git y GitFlow, Instalacción de herramientas, SSH.\n- **Organización del código fuente:** Creación de un repositorio local, Aprobación de campos en consola, Aprobación de cambios con la interfaz gráfica, Trabajo en remoto, Deshaciendo cambios, Resolviendo conflictos, Subiendo cambios.\n- **Flujos de trabajo:** Encontrando errores, Git blame, Estrategia Merge, Estrategia Rebase, Estrategia Merge Squansh - Rebase, Git Stash, Saltando entre commits.\n- **Trabajo colaborativo:** Etiquetas, Releases, Issues, Pull Requests, Integración continua.",
           "URL": "https://openwebinars.net/cert/GIb7",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/c25dc128-56d6-4746-a008-71cd58198e17_openwebinars_logo.jpg",
