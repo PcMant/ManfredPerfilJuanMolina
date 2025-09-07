@@ -299,6 +299,16 @@
         "finishDate": "2022-06-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Google AI Essentials",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "Google",
+          "URL": "https://www.coursera.org/account/accomplishments/records/S7P4GUH8SAGY"
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Programación Web Front-End con Angular",
