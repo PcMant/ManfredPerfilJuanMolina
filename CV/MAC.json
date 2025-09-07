@@ -575,7 +575,11 @@
         "startDate": "2021-04-01",
         "institution": {
           "name": "Cisco Networking Academy",
-          "URL": "https://www.netacad.com/courses/os-it/ndg-linux-essentials"
+          "URL": "https://www.netacad.com/courses/os-it/ndg-linux-essentials",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/af430264-36cc-4e4d-a810-77c6d33c1faa_cisco_networking_aca.jpg",
+            "alt": "cisco_networking_academy1_logo.jpg"
+          }
         },
         "linkedCompetences": [
           {
