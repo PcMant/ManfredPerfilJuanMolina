@@ -706,6 +706,9 @@
           "URL": "https://www.twitter.com/ipcmant",
           "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "juanmgpt@gmail.com"
       ]
     },
     "preferences": {
