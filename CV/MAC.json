@@ -405,6 +405,39 @@
           }
         },
         "finishDate": "2021-07-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Programación Web con PHP8, MySQL, Laravel y Symfony",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "- 51,5 horas de vídeo bajo demanda\n- Programar en PHP8 desde CERO\n- Pensar como Programador Web Back-End\n- Crear Sitios Web Dinámicos con PHP8\n- Aprenderás Estructuras de control con PHP\n- Aprenderas el manejo de MySQL\n- Conocerás estructura HTML5\n- Conocerás estructura CSS3\n- Crearas Proyectos Reales con PHP8\n- Aprenderás a utilizar el framework Laravel 9",
+          "URL": "https://www.udemy.com/certificate/UC-db5a0823-5fe1-4aec-ae4a-633d6aa243f8/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/5dad7efe-e8ca-47f2-95e5-95e609ec721a_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
