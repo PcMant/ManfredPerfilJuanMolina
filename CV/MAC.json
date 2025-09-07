@@ -332,6 +332,7 @@
         "startDate": "2023-07-01",
         "institution": {
           "name": "Udemy",
+          "description": "- 28 horas de vídeo bajo demanda.\n- Dominar Angular\n- Dominar React\n- Dominar Vue\n- Aprender NodeJS\n- Maquetación de sitios web\n- Nociones en bases de datos con MongoDB\n- Aprender programación orientada a objetos en JavaScript\n- Conocer el MEAN Stack\n- Conocer el MERN Stack\n- Conocer el MEVN Stack\n- Desarrollar aplicaciones web SPA\n- Desarrollo front y back-end\n- Reforzar el conocimiento de JavaScript y buenas prácticas\n- Desarrollar servicios y APIs RESTful con NodeJS, Express y MongoDB\n- Aprender a programar con ReactJS\n- Aprender a programar con Angular\n- Aprender a programar con VueJS\n- Aprender desarrollo web con los frameworks para JavaScript más importantes\n- Desarrollo back-end con JavaScript\n- Mejorar la capacidad de adaptación a otros frameworks JavaScript\n- Crear aplicaciones web modernas con JavaScript, Angular, React y Vue",
           "URL": "https://www.udemy.com/certificate/UC-da814fe9-9822-472d-b521-ca1a2844d5e7/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/7184daca-f8c3-48a1-a8cc-ed8cc06245ea_udemy_logo.jpg",
