@@ -447,6 +447,26 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Master en Docker & Networking de Principiante a Experto",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-5594b18c-f667-4ccc-bff0-1367eba6bc33/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/c9305622-371e-43d4-aa33-56ecf2f34982_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Master en Frameworks JavaScript: Aprende Angular, React, Vue",
         "startDate": "2023-07-01",
         "institution": {
