@@ -321,6 +321,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso de Git y la Terminal de comandos - Para programadores",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "- Trabajar con los comandos en Windows\n- Trabajar con la terminal de Linux y Mac\n- Entender conceptos de sistemas operativos\n- Conocer que es un sistema de control de versiones\n- Utilizar Git\n- Trabajo en equipo con Git\n- Dominar el flujo de trabajo habitual con Git\n- Usar Github y repositorios remotos\n",
+          "URL": "https://www.udemy.com/certificate/UC-d4c3fd3f-a8b1-42af-a6e5-09c858025678/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/ff8dcf9a-37eb-4881-b4d9-f131b6cf7640_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de SEO y Posicionamiento web para Desarrolladores web",
         "startDate": "2019-05-01",
         "institution": {
