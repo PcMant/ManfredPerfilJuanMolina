@@ -305,7 +305,11 @@
         "startDate": "2024-06-01",
         "institution": {
           "name": "Google",
-          "URL": "https://www.coursera.org/account/accomplishments/records/S7P4GUH8SAGY"
+          "URL": "https://www.coursera.org/account/accomplishments/records/S7P4GUH8SAGY",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/fa9c6f81-26db-495c-895f-d77f7f356c67_logo_google.jpg",
+            "alt": "logo_google.jpg"
+          }
         }
       },
       {
