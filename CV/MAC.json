@@ -328,6 +328,38 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Master en Frameworks JavaScript: Aprende Angular, React, Vue",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-da814fe9-9822-472d-b521-ca1a2844d5e7/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/7184daca-f8c3-48a1-a8cc-ed8cc06245ea_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +",
         "startDate": "2023-11-01",
         "institution": {
