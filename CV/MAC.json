@@ -38,16 +38,20 @@
     "jobs": [
       {
         "organization": {
-          "name": "Plat-on SL"
+          "name": "Plat-on SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/1e5b9ce5-1ab7-4f77-98b8-989b3c51c4dd_plat-on_logo.jpg",
+            "alt": "plat-on_logo.jpg"
+          }
         },
         "roles": [
           {
-            "name": "Programador júnior",
+            "name": "Programador Web",
             "startDate": "2022-11-01",
             "finishDate": "2023-01-01",
             "challenges": [
               {
-                "description": "Funciones: Mantener proyectos web y desarrollo web"
+                "description": "Funciones: Mantenimiento de proyectos de programación web y desarrollo Web Fullstack. PHP, JavaScript, jQuery y MySQL"
               }
             ],
             "competences": [
