@@ -569,6 +569,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "NDG Linux Essentials",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Cisco Networking Academy",
+          "URL": "https://www.netacad.com/courses/os-it/ndg-linux-essentials"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Programación Web Front-End con Angular",
@@ -576,7 +592,7 @@
         "institution": {
           "name": "Escuela de Organización Industrial",
           "description": "- ID de la credencial: 82E057B8-C3AD-4456-8B63-303A1466BFCF [El código se comprueba en este enlace](https://www.etitulo.com/validate)\n- Introducción Front-End con HTML y CSS 3.\n- Fundamentos de la programación: Javascript.\n- Desarrollo Front-End Angular\n- Introducción a React\n- Diseño Web orientado a producto digital\n- Protección de datos",
-          "URL": "https://www.etitulo.com/validate",
+          "URL": "https://www.eoi.es/es/cursos/90576/curso-frontend-en-angular-programacion-web-front-end-con-angular-presencia-virtual-online-castilla-la-mancha",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/bb08a198-765d-48a8-984c-2e2cae66fa91_eoi_logo.png",
             "alt": "EOI_logo.png"
