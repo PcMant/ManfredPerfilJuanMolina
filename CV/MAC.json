@@ -252,7 +252,19 @@
         },
         "linkedCompetences": [
           {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
             "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
             "type": "technology"
           }
         ]
