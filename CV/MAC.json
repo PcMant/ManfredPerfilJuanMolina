@@ -578,8 +578,8 @@
           "description": "- ID de la credencial: 82E057B8-C3AD-4456-8B63-303A1466BFCF\n- Introducción Front-End con HTML y CSS 3.\n- Fundamentos de la programación: Javascript.\n- Desarrollo Front-End Angular\n- Introducción a React\n- Diseño Web orientado a producto digital\n- Protección de datos",
           "URL": "https://www.etitulo.com/validate",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/23/bf652d70-2fc8-445b-98d2-2fe32aed37a3_logo_eoi.jpg",
-            "alt": "LOGO_EOI.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/bb08a198-765d-48a8-984c-2e2cae66fa91_eoi_logo.png",
+            "alt": "EOI_logo.png"
           }
         },
         "finishDate": "2021-07-01",
