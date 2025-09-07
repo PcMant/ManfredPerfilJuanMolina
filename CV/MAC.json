@@ -476,6 +476,7 @@
         "startDate": "2021-03-01",
         "institution": {
           "name": "Udemy",
+          "description": "1. Conocer, utilizar y aprender Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker y todas sus herramientas.\n2. Aprenderás que podrás ahorrar muchos costos al usar esta tecnología\n3. Conoceremos las ventajas de usar Docker y su simplicidad a la hora de desplegar aplicaciones\n4. Hablaremos de las Plataformas multi-nube donde podremos usar Docker\n5. Trataremos aspectos tan importantes como Aislamiento - Seguridad\n6. Conoceremos como crear maquinas virtuales y abriremos puertos en Google cloud o Amazon Web Services\n\nSabremos a utilizar metodologías devops y entornos agile\n\nSabremos desplegar de forma sencilla aplicaciones en producción y como funcionan",
           "URL": "https://www.udemy.com/certificate/UC-5594b18c-f667-4ccc-bff0-1367eba6bc33/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/c9305622-371e-43d4-aa33-56ecf2f34982_udemy_logo.jpg",
