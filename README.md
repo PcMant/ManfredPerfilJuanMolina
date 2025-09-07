@@ -2,12 +2,12 @@
 
 # Juan Molina Gómez's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/984148c8-86cd-4ea3-bc7c-317889f2d55a).
 <br/>
 <br/>
 
 <div align='center'>
-  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2025-09-07 17:44 UTC&color=brightgreen&style=for-the-badge'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2025-09-07 17:45 UTC&color=brightgreen&style=for-the-badge'>
   <a href='https://github.com/getmanfred/mac'>
     <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.5&color=brightgreen&style=for-the-badge'>
   </a>
