@@ -239,6 +239,34 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado de soporte de TI de Google",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Coursera",
+          "URL": "https://www.credly.com/badges/8a6c4b6e-a987-4d61-8aa4-c8155e57a10b/public_url"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Active Directory",
+            "type": "technology"
+          },
+          {
+            "name": "Support",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de Git",
         "startDate": "2025-07-01",
         "institution": {
