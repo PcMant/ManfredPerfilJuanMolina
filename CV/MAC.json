@@ -439,6 +439,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Introduction to Cybersecurity",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Cisco Networking Academy",
+          "URL": "https://www.credly.com/badges/3c1fd6ea-e4eb-4145-b9cf-b210c0f5e09e",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/907bc986-170a-4be4-aacb-17a72f8f438c_cisco_networking_aca.jpg",
+            "alt": "cisco_networking_academy1_logo.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Master en CSS: Responsive, SASS, Flexbox, Grid y Bootstrap",
         "startDate": "2021-12-01",
         "institution": {
