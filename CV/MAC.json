@@ -239,6 +239,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Carrera PHP Developer",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "OpenWebinars",
+          "description": "1. Curso PHP para principiantes\n2. Curso de Git\n3. Curso de PHP: Ampliando conceptos\n4. Curso de Shell de Linux\n5. Curso de SQL Desde cero",
+          "URL": "https://openwebinars.net/cert/72wdK",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/f2774cc8-7c62-4dbf-af4a-563f36bfb1e6_openwebinars_logo.jpg",
+            "alt": "openwebinars_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado de soporte de TI de Google",
         "startDate": "2022-12-01",
         "institution": {
