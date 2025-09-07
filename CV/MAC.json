@@ -381,6 +381,50 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Master en CSS: Responsive, SASS, Flexbox, Grid y Bootstrap",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-580c2754-db75-4caa-9510-f4a60aa2e77d/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/07/ddb6affb-2c38-41df-baf7-9d638fc85ba8_udemy_logo.jpg",
+            "alt": "udemy_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "FlexBox",
+            "type": "technology"
+          },
+          {
+            "name": "Grid",
+            "type": "technology"
+          },
+          {
+            "name": "Less CSS",
+            "type": "technology"
+          },
+          {
+            "name": "SaaS",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Master en Frameworks JavaScript: Aprende Angular, React, Vue",
         "startDate": "2023-07-01",
         "institution": {
@@ -451,13 +495,32 @@
         "startDate": "2021-05-01",
         "institution": {
           "name": "Escuela de Organización Industrial",
-          "description": "Introducción Front-End con HTML y CSS 3.\nFundamentos de la programación: Javascript.\nDesarrollo Front-End Angular\nIntroducción a React\nDiseño Web orientado a producto digital\nProtección de datos",
+          "description": "- ID de la credencial: 82E057B8-C3AD-4456-8B63-303A1466BFCF\n- Introducción Front-End con HTML y CSS 3.\n- Fundamentos de la programación: Javascript.\n- Desarrollo Front-End Angular\n- Introducción a React\n- Diseño Web orientado a producto digital\n- Protección de datos",
+          "URL": "https://www.etitulo.com/validate",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/23/bf652d70-2fc8-445b-98d2-2fe32aed37a3_logo_eoi.jpg",
             "alt": "LOGO_EOI.jpg"
           }
         },
-        "finishDate": "2021-07-01"
+        "finishDate": "2021-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
