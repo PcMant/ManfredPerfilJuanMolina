@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -16,6 +16,18 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanmol/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/PcMant"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://www.twitter.com/ipcmant"
+      },
       {
         "type": "other",
         "URL": "https://www.pcmant.com/"
@@ -128,10 +140,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -301,15 +315,6 @@
           "URL": "https://www.twitter.com/ipcmant",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "juanmgpt@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "676823029",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -357,7 +362,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       ],
