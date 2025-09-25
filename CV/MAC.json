@@ -206,6 +206,12 @@
       },
       {
         "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -225,6 +231,12 @@
       {
         "skill": {
           "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
           "type": "technology"
         }
       },
