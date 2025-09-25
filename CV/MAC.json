@@ -696,6 +696,12 @@
       },
       {
         "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Proactividad",
           "type": "practice"
         }
