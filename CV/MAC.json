@@ -30,7 +30,12 @@
       },
       {
         "type": "other",
-        "URL": "https://www.pcmant.com/"
+        "URL": "https://www.pcmant.com/",
+        "description": "Blog"
+      },
+      {
+        "type": "other",
+        "URL": "https://static.juanmolina.qzz.io/"
       }
     ]
   },
